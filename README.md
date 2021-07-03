@@ -6,7 +6,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 # Regonalny Związek Rewizyjny w Bydgoszczy
-> Web page. Basic information about the Association plus Members. 
+Web page. Basic information about the Association plus Members. 
 
 ## Table of contents
 * [General info](#general-info)
@@ -22,7 +22,7 @@
 An organization gathering mainly cooperatives from the Kujawsko-Pomorskie voivodship. Character of the website is typically informative .
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/rzgithub.jpg)
 
 ## Technologies
 * HTML 5 
@@ -74,6 +74,7 @@ List of features ready and TODOs for future development
 To-do list:
 * email form
 * news
+* social media
 
 ## Status
 Project is: _in progress_, 
